@@ -43,11 +43,11 @@ Ensure you have an active internet connection to fetch live data.
 
 🔥 Future Enhancements
 
-🔹 Add a search bar to filter cryptocurrencies.🔹 Implement a dark mode for better UI experience.🔹 Add price trend charts for better data visualization.🔹 Allow users to track their favorite coins with a watchlist feature.
+🔹 Add a search bar to filter cryptocurrencies.
+🔹 Implement a dark mode for better UI experience.
+🔹 Add price trend charts for better data visualization.
+🔹 Allow users to track their favorite coins with a watchlist feature.
 
-📜 License
-
-This project is open-source and available under the MIT License.
 
 🤝 Contributing
 
