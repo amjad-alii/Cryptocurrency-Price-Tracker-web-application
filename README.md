@@ -34,8 +34,7 @@ Google Fonts (Poppins) for better typography
 
 Clone the repository:
 
-git clone https://github.com/amjad-alii/crypto-price-tracker.git
-cd crypto-price-tracker
+git clone https://github.com/amjad-alii/Cryptocurrency-Price-Tracker-web-application
 
 Open index.html in your browser.
 
